@@ -11,8 +11,8 @@
   scroll-behavior: smooth;
 }
 
-#main {
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("../img/stats-bg.jpg") center center;
+#main-coming {
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.96)), url("../img/stats-bg.jpg") center center;
   background-size: cover;
   padding: 100px 0;
 }
